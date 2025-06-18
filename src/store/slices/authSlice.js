@@ -2,8 +2,8 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
 
-// const API_URL = "https://api.anveraesports.com/api/user/";
-const API_URL = "http://localhost:5000/api/v0.1/user/";
+const API_URL = "https://opus-1.onrender.com/api/v0.1/user/";
+// const API_URL = "http://localhost:5000/api/v0.1/user/";
 
 
 
